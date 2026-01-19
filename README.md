@@ -1,4 +1,4 @@
-# Анна Шаткова — Product Analyst (B2C) | Intern / Junior
+# Анна Шаткова — Product Analyst (B2C)
 
 SQL (ClickHouse) • Python (pandas/scipy) • A/B testing (AA, MDE, bootstrap) • Cohorts/Retention • Superset/Tableau
 
