@@ -3,8 +3,9 @@
 В этой папке — 2 кейса по работе с дашбордами в Superset: retention/DAU и динамика аудитории по неделям.
 
 ## Кейсы
+
 ### 1) Retention рекламной кампании + расследование падения DAU
-→ [Открыть кейс](./ads_retention_and_dau_drop/)
+→ [Открыть кейс](./case_ads_retention.md)
 
 ### 2) Аудитория по неделям (new / retained / gone)
-→ [Открыть кейс](./weekly_audience/)
+→ [Открыть кейс](./case_weekly_audience.md)
