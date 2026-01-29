@@ -18,3 +18,9 @@
 - **Python**: pandas, numpy, scipy  
 - **Визуализация**: matplotlib / seaborn  
 - **Jupyter Notebook**
+---
+
+## Файлы проекта
+
+- 📊 **Презентация (PDF):** [Multu.pdf](./Multu.pdf)
+- 📓 **Jupyter Notebook:** [Multu.ipynb](./Multu.ipynb)
