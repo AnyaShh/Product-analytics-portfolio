@@ -16,7 +16,7 @@ SQL (ClickHouse) • Python (pandas/scipy/seaborn/matplotlib) • A/B testing (A
 → папка: [`multiservice_retention`](./multiservice_retention)
 
 ### Superset: дашборд и диагностика падения DAU
-Дашборд DAU/Retention, сегментация, поиск причины аномалии и план мониторинга.  
+Дашборд DAU/Retention, сегментация, поиск причины аномалии.  
 → папка: [`superset_dashboard`](./superset_dashboard)
 
 ## Контакты
