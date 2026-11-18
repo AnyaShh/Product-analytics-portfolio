@@ -20,4 +20,4 @@ SQL (ClickHouse) • Python (pandas/scipy/seaborn/matplotlib) • A/B testing (A
 → папка: [`superset_dashboard`](./superset_dashboard)
 
 ## Контакты
-Telegram: @Anyashh • Email: anyashh@yandex.ru
+Telegram: @Anyyashh • Email: anyyashh@yandex.ru
