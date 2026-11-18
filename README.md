@@ -19,5 +19,9 @@ SQL (ClickHouse) • Python (pandas/scipy/seaborn/matplotlib) • A/B testing (A
 Дашборд DAU/Retention, сегментация, поиск причины аномалии.  
 → папка: [`superset_dashboard`](./superset_dashboard)
 
+### Путь пользователя: оформление карты на сайте
+User flow, точки оттока, 4 гипотезы роста конверсии с метриками и планом проверки через A/B.  
+→ папка: [`user_flow_cards`](./user_flow_cards)
+
 ## Контакты
 Telegram: @Anyyashh • Email: anyyashh@yandex.ru
